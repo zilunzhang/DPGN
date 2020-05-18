@@ -25,13 +25,13 @@ To install dependencies:
 sudo pip3 install -r requirements.txt
 ```
 ## Dataset
-For your convenience, you could download the *mini*-Imagenet dataset that fits in our codebase directly from [Google Drive](https://drive.google.com/open?id=1RGhzbN1C8gPMop6XBtr7a1afx3rmUGK5).
+For your convenience, you can download the datasets directly from links on the left, or you can make them from scratch follow the original split on the right. 
 
 |    Dataset    | Original Split |
 | :-----------: |:----------------:|
-|  [Mini-ImageNet](https://drive.google.com/drive/folders/15WuREBvhEbSWo4fTr1r-vMY0C_6QWv4w)  |  [Matching Networks](https://arxiv.org/pdf/1606.04080.pdf)  | 
-|    [Tiered-ImageNet](https://drive.google.com/file/d/1nVGCTd9ttULRXFezh4xILQ9lUkg0WZCG/view)   |   [SSL](https://arxiv.org/abs/1803.00676)   |
-|  [CIFAR-FS](https://drive.google.com/file/d/1GjGMI0q3bgcpcB_CjI40fX54WgLPuTpS/view)  |   [R2D2](https://arxiv.org/pdf/1805.08136.pdf)   |
+|  [Mini-ImageNet](https://drive.google.com/open?id=1RGhzbN1C8gPMop6XBtr7a1afx3rmUGK5)  |  [Matching Networks](https://arxiv.org/pdf/1606.04080.pdf)  | 
+|    [Tiered-ImageNet](https://drive.google.com/file/d/1nVGCTd9ttULRXFezh4xILQ9lUkg0WZCG)   |   [SSL](https://arxiv.org/abs/1803.00676)   |
+|  [CIFAR-FS](https://drive.google.com/file/d/1GjGMI0q3bgcpcB_CjI40fX54WgLPuTpS)  |   [R2D2](https://arxiv.org/pdf/1805.08136.pdf)   |
 |      [CUB-200-2011](https://github.com/wyharveychen/CloserLookFewShot/tree/master/filelists/CUB)     |   [Closer Look](https://arxiv.org/pdf/1904.04232.pdf)   |
 
 The dataset directory should look like this:
