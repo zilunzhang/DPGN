@@ -25,7 +25,7 @@ To install dependencies:
 sudo pip3 install -r requirements.txt
 ```
 ## Dataset
-For your convenience, you can download the datasets directly from links on the left, or you can make them from scratch follow the original split on the right. 
+For your convenience, you can download the datasets directly from links on the left, or you can make them from scratch following the original splits on the right. 
 
 |    Dataset    | Original Split |
 | :-----------: |:----------------:|
