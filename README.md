@@ -25,7 +25,7 @@ To install dependencies:
 sudo pip3 install -r requirements.txt
 ```
 ## Dataset
-For your convenience, you could download the *mini*-Imagenet dataset that fits in our codebase directly from [Google Drive](https://drive.google.com/open?id=1RGhzbN1C8gPMop6XBtr7a1afx3rmUGK5) directly.
+For your convenience, you could download the *mini*-Imagenet dataset that fits in our codebase directly from [Google Drive](https://drive.google.com/open?id=1RGhzbN1C8gPMop6XBtr7a1afx3rmUGK5).
 
 |    Dataset    | Original Split |
 | :-----------: |:----------------:|
